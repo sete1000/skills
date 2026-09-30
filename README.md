@@ -1,3 +1,4 @@
+
 # Agnes AI Skills
 
 <p align="center">
@@ -108,3 +109,7 @@ Use the Agnes AI Models skill to create a Python example for agnes-2.5-flash.
 - Docs: https://agnes-ai.com/en/docs/overview
 - Platform: https://platform.agnes-ai.com/
 - API base URL: `https://apihub.agnes-ai.com/v1`
+python /path/to/install-skill-from-github.py \
+  --repo AgnesAI-Labs/skills \
+  --path agnes-ai-models
+  
